@@ -1,0 +1,33 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "UPDATED:New Log add for NDB router flood",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-02-27T01:01:21.541Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Slognoff",
+      "id": 4
+    }
+  ]
+}
